@@ -16,5 +16,14 @@ mqtt:
 devices:
   - ip: 192.168.7.23
     mac: e81656290425
-    name: Childroom AC
+    name: Jonjon
     port: 80
+  - ip: 192.168.7.24
+    mac: e8165628c633
+    name: Ofir
+    port: 80
+  - ip: 192.168.7.25
+    mac: e81656291b1b
+    name: Horim
+    port: 80
+  
